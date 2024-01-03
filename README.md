@@ -2,7 +2,7 @@
 
 ## Discord
 
-Please join our discord to help us stay motivated as the only i-Ready hack on github.
+Please join our (discord)[https://discord.gg/bZw5ayfMF4] to help us stay motivated as the only i-Ready hack on github.
 
 ## Overview
 
