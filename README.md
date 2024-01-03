@@ -21,6 +21,10 @@ The i-Ready Lesson Skipper is a tool designed to streamline the process of skipp
 4. Press the play button on the "Paused in debugger" menu.
 5. Follow onscreen steps.
 
+---
+
+IF IT DOESNT WORK ITS BECAUSE YOU GOTTA CHANGE IT PER LESSON TYPE, YOURE PROBABLY TOO RETARDED TO DO IT YOURSELF SO JOIN THE DISCORD.
+
 ## FAQ
 
 ### Is this tool safe to use?
